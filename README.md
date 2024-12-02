@@ -32,7 +32,7 @@ In this section, you will find solutions to **Easy**-level problems.
 
 | Problem No | Problem Name           | Solution                                  |
 |------------|-------------------------|-------------------------------------------|
-| 13          | Roman to Integer                 | [Link to Code](Easy/romantoint.py)         |
+| 1          | Roman to Integer                 | [Link to Code](Easy/romantoint.py)         |
 
 
 
